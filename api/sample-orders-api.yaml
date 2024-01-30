@@ -1,7 +1,7 @@
 # (C) Copyright IBM Corporation 2022,2023
 swagger: '2.0'
 info:
-  version: 1.0.0
+  version: 1.0.1
   title: Order
   x-ibm-name: ibm-sample-order-api
   description: View and track your orders and deliveries.
